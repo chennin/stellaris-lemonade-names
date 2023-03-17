@@ -14,6 +14,6 @@ Load order doesn't matter.
 
 # Credits
 
-The mod was mostly generated using [Osiris' Namelist Mod Generator](https://steamcommunity.com/linkfilter/?url=https://github.com/Osiris1975/namelist-mod-gen)
+The mod was mostly generated using [Osiris' Namelist Mod Generator](https://github.com/Osiris1975/namelist-mod-gen)
 
 FurtherReading for the original mod.
