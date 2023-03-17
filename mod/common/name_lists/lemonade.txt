@@ -1,0 +1,279 @@
+﻿### Lemonade Names
+### Created by forbiddenlake
+
+forbiddenlake_lemonade = {
+
+	ship_names = {
+
+        generic = {
+            "Rust Bucket" "Airlock Failure" "Blinking Engine Light" "Broken Lamp" "All Duct Tape" "N-Hand Ship" "No Seats" "Grinding Gears" "Life Support Failure" "Black Mould" "Cracked Cogs" "Missing Gears" "Weird Smell" "Bargin Bin" "Smoke Stains" "Blocked Vents" "Cursed Spirit" "Full of Mice" "Rounding Error" "Dented Hull" "Spluttering Engine" "Trash" "Rubbish" "Just No" "Why" "Warranty Expired" "Hammer" "Coffin Ship" "Return to Sender" "Expired" "Twitch" "Vile" "Regret" "Nameless" "Nebulous" "Indistinct" "Smothering" "Concerning" "Dangerous" "Obscenity" "Ghastly" "Malice" "Gruesome" "Blasphemy"
+        }
+
+		corvette = {
+			"Hunk of Junk"
+		}
+
+        frigate = {
+            "Leaky Container"
+        }
+
+		destroyer = {
+			"Toy Boat"
+		}
+
+		cruiser = {
+			"Overpriced"
+		}
+		StrikeCruiser = {
+			
+		}
+		Battlecruiser = {
+			
+		}
+		battleship = {
+			"Sunken"
+		}
+		Carrier = {
+			
+		}
+		Dreadnought = {
+			
+		}
+		titan = {
+			
+		}
+		Flagship = {
+			
+		}
+		colossus = {
+			"Garbagepatch"
+		}
+		juggernaut = {
+			
+		}
+
+		constructor = {
+			"Unsafe Environment"
+		}
+
+		colonizer = {
+			"Tin Can"
+		}
+		sponsored_colonizer = {
+		
+		}
+
+		science = {
+			"Retracted Paper"
+		}
+
+		explorationship = {
+			"Retracted Paper"
+		}
+
+		transport = {
+			"Hearse"
+		}
+
+		military_station_small = {
+			
+		}
+
+		military_station_medium = {
+			
+		}
+
+		military_station_large = {
+			
+		}
+
+		ion_cannon = {
+			
+		}
+
+		xl_cannon = {
+			
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"Junkers" "Rust Bolts" "Trash Cloud" "Broken Swarm" "Bodysnatchers" "Sanitizers"
+		}
+		sequential_name = FORBIDDENLAKE_LEMONADE_FLEETNAMES_HEX
+	}
+
+	army_names = {
+
+		machine_defense = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_MACHINEDEFENSE_HEX
+		}
+
+		machine_assault_1 = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_MACHINEASSAULT1_HEX
+		}
+
+		machine_assault_2 = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_MACHINEASSAULT2_HEX
+		}
+
+		machine_assault_3 = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_MACHINEASSAULT3_HEX
+		}
+
+		defense_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_DEFENSEARMY_HEX
+		}
+
+		assault_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_ASSAULTARMY_HEX
+		}
+
+		slave_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_SLAVEARMY_HEX
+		}
+
+		clone_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_CLONEARMY_HEX
+		}
+
+		undead_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_UNDEADARMY_HEX
+		}
+
+		robotic_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_ROBOTICARMY_HEX
+		}
+
+		robotic_defense_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_ROBOTICDEFENSEARMY_HEX
+		}
+
+		psionic_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_PSIONICARMY_HEX
+		}
+
+		xenomorph_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_XENOMORPHARMY_HEX
+		}
+
+		gene_warrior_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_GENEWARRIORARMY_HEX
+		}
+
+		occupation_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_OCCUPATIONARMY_HEX
+		}
+
+		robotic_occupation_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_ROBOTICOCCUPATIONARMY_HEX
+		}
+
+		primitive_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_PRIMITIVEARMY_HEX
+		}
+		industrial_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_INDUSTRIALARMY_HEX
+		}
+		postatomic_army = {
+			sequential_name = FORBIDDENLAKE_LEMONADE_POSTATOMICARMY_HEX
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				"Trash Heap" "Weird Smell" "Bad Planet" "Don't Settle Here" "Literally All Spiders" "Go Away" "Awful" "Rusty Razor" "Haunted Crash Site" "Failed Colony" "Black Mould" "Graveyard" "Flies Everywhere" "Farts" "Stygia" "Mayhem" "Dread Vaults" "Struggle" "Death's Kiss" "No Sleep" "Screaming Sun" "Soggy" "Moist" "Ruined" "Malicious" "Overlooked" "Cursed" "Gooey" "Wasteland" "Bones" "Creep" "Idioteque" "Homesick" "Junkyard" "Dumpster Fire" "Sharp Edges" "Bottomless Pit" "Money Drain" "Full of Wasps" "Hell" "Why Here" "Molasses" "Spoiled Milk" "Unauthorized" "Not Found" "No Content" "Moved Permanently" "See Other" "Forbidden" "Not Allowed" "Not Acceptable" "Gone" "Too Large" "Too Long" "Locked" "Unavailable" "Not Implemented" "Insufficient"
+			}
+		}
+
+		pc_desert = {
+			names = {
+				"Dust" "Coarse" "The Pit" "Burnt" "Litterbox" "Glass Eyes" "Glasshouse" "Molasses" "Permanent Daylight"
+			}
+		}
+
+		pc_tropical = {
+			 names = {
+				"Sunless Jungle" "Aggressive Vines" "Sweet Diseases" "Mosquitoland" "Fake Plastic Trees" "Treefingers"
+			}
+		}
+
+		pc_arid = {
+			names = {
+				"Airbag" "Blow Out" "Myxomatosis" "Arpeggi" "Boring" "No Shade"
+			}
+		}
+
+		pc_continental = {
+			names = {
+				"Fog" "Bears Outside" "Polyethylene" "Vegetable" "Wolf at the Door" "Petrichor"
+			}
+		}
+
+		pc_gaia = {
+			names = {
+				"Bloom" "Last Flowers" "Lotus Flower" "Suspicious" "Terrible Secret" "Teapot" "Enhanced Calm"
+			}
+		}
+
+		pc_ocean = {
+			names = {
+				"Brine" "Dank" "Rotten" "Latrine" "Thorn Reef" "Tears" "Man of War" "Sardines" "Weird Fishes"
+			}
+		}
+
+		pc_tundra = {
+			names = {
+				"Gloaming" "Ill Wind" "Lift" "Dry Ice" "Crispy"
+			}
+		}
+
+		pc_arctic = {
+			names = {
+				"Frozen Tears" "Bonechill" "Avalanche" "Cuttooth" "Death Trap" "Wintry Mix" "Black Ice"
+			}
+		}
+
+		pc_savannah = {
+			names = {
+				"Backdrifts" "Feral" "Telex" "Spectre" "Predator"
+			}
+		}
+
+		pc_alpine = {
+			names = {
+				"High and Dry" "Ripcord" "Scatterbrain" "Staircase" "Bumpy Ride"
+			}
+		}
+
+	}
+
+	character_names = {
+
+		names1 = {
+			first_names_male = {
+				"Broken" "Leaking" "Rusted" "Expired" "Blinking" "Rogue" "Stained" "Faulty" "Repurposed" "Second Hand" "Ancient" "Obsolete" "Unlucky" "Forgotten" "Trashed" "Eccentric" "Quirky" "Squeaky" "Dented" "Busted" "Crappy" "Spare" "Replacement" "Improbable" "Flammable" "Typo-ridden" "Drowned" "Forced" "Hairy" "Stinky" "Awful" "Virus Ridden" "Blocked" "Smelly" "Evil" "Cursed" "Angry" "Stupid" "Silly" "Old" "Wobbly" "Rusty" "Garbage" "Lossy" "Broken-down" "Blurry" "Weak" "Inaccurate" "Imprecise" "Buggy" "Moldy" "Partial" "Unknown" "Unsupported" "Misdirected" "Unprocessable" "Stale"
+			}
+			first_names_female = {
+				"Broken" "Leaking" "Rusted" "Expired" "Blinking" "Rogue" "Stained" "Faulty" "Repurposed" "Second Hand" "Ancient" "Obsolete" "Unlucky" "Forgotten" "Trashed" "Eccentric" "Quirky" "Squeaky" "Dented" "Busted" "Crappy" "Spare" "Replacement" "Improbable" "Flammable" "Typo-ridden" "Drowned" "Forced" "Hairy" "Stinky" "Awful" "Virus Ridden" "Blocked" "Smelly" "Evil" "Cursed" "Angry" "Stupid" "Silly" "Old" "Wobbly" "Rusty" "Garbage" "Lossy" "Broken-down" "Blurry" "Weak" "Inaccurate" "Imprecise" "Buggy" "Moldy" "Partial" "Unknown" "Unsupported" "Misdirected" "Unprocessable" "Stale"
+			}
+			second_names = {
+				"Unit" "Drone" "Machine" "Cleanerbot" "Commercebot" "Wastebot" "Droid" "Astromech" "Warbot" "Calculator" "Computer" "Toy" "Mech" "Vehicle" "Scanner" "AI" "Sentient Toilet" "Lemon" "Doll" "App" "Robot Arm" "Compactor" "Algorithm" "Script" "stellaris.exe" "Trading Algorithm" "Butterbot" "Microwave" "Chefbot" "Beer Fridge" "Oven" "Patch" "CRT" "LED" "Drive" "Bug" "Troll" "Hardware" "Software" "Washer" "Nut" "Breadbasket" "Content" "Redirect" "Request" "Dependency" "Error" "Certificate"
+			}
+
+			regnal_first_names_male = {
+				"Broken" "Leaking" "Rusted" "Expired" "Blinking" "Rogue" "Stained" "Faulty" "Repurposed" "Second Hand" "Ancient" "Obsolete" "Unlucky" "Forgotten" "Trashed" "Eccentric" "Quirky" "Squeaky" "Dented" "Busted" "Crappy" "Spare" "Replacement" "Improbable" "Flammable" "Typo-ridden" "Drowned" "Forced" "Hairy" "Stinky" "Awful" "Virus Ridden" "Blocked" "Smelly" "Evil" "Cursed" "Angry" "Stupid" "Silly" "Old" "Wobbly" "Rusty" "Garbage" "Lossy" "Broken-down" "Blurry" "Weak" "Inaccurate" "Imprecise" "Buggy" "Moldy" "Partial" "Unknown" "Unsupported" "Misdirected" "Unprocessable" "Stale"
+			}
+
+			regnal_first_names_female = {
+				"Broken" "Leaking" "Rusted" "Expired" "Blinking" "Rogue" "Stained" "Faulty" "Repurposed" "Second Hand" "Ancient" "Obsolete" "Unlucky" "Forgotten" "Trashed" "Eccentric" "Quirky" "Squeaky" "Dented" "Busted" "Crappy" "Spare" "Replacement" "Improbable" "Flammable" "Typo-ridden" "Drowned" "Forced" "Hairy" "Stinky" "Awful" "Virus Ridden" "Blocked" "Smelly" "Evil" "Cursed" "Angry" "Stupid" "Silly" "Old" "Wobbly" "Rusty" "Garbage" "Lossy" "Broken-down" "Blurry" "Weak" "Inaccurate" "Imprecise" "Buggy" "Moldy" "Partial" "Unknown" "Unsupported" "Misdirected" "Unprocessable" "Stale"
+
+			}
+			regnal_second_names = {
+				"Unit" "Drone" "Machine" "Cleanerbot" "Commercebot" "Wastebot" "Droid" "Astromech" "Warbot" "Calculator" "Computer" "Toy" "Mech" "Vehicle" "Scanner" "AI" "Sentient Toilet" "Lemon" "Doll" "App" "Robot Arm" "Compactor" "Algorithm" "Script" "stellaris.exe" "Trading Algorithm" "Butterbot" "Microwave" "Chefbot" "Beer Fridge" "Oven" "Patch" "CRT" "LED" "Drive" "Bug" "Troll" "Hardware" "Software" "Washer" "Nut" "Breadbasket" "Content" "Redirect" "Request" "Dependency" "Error" "Certificate"
+			}
+		}
+	}
+}

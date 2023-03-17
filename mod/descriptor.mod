@@ -5,6 +5,6 @@ tags={
 	"Spaceships"
 }
 picture="thumbnail.png"
-name="Lime Names"
-supported_version="3.6.*"
-remote_file_id=""
+name="Lemonade Names"
+supported_version="3.7.*"
+remote_file_id="2948257189"
