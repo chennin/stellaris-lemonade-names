@@ -17,3 +17,7 @@ Load order doesn't matter.
 The mod was mostly generated using [Osiris' Namelist Mod Generator](https://github.com/Osiris1975/namelist-mod-gen)
 
 FurtherReading for the original mod.
+
+# Uploading
+
+`steamcmd +login $STEAMUSER +workshop_build_item $PWD/steamcmd.txt +quit`
