@@ -6,5 +6,5 @@ tags={
 }
 picture="thumbnail.png"
 name="Lemonade Names"
-supported_version="v3.13.*"
+supported_version="v3.14.*"
 remote_file_id="2948257189"
